@@ -11,12 +11,13 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
-| 06-03-2025 | Longest Common Subsequence                            | [Solution](./march6.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) |
-| 05-03-2025 | Longest String Chain                                  | [Solution](./march5.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-string-chain/1) |
-| 04-03-2025 | Longest Increasing Subsequence                        | [Solution](./march4.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) |
-| 03-03-2025 | Longest Bounded-Difference Subarray                   | [Solution](./march3.java) | [Problem](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1) |
-| 02-03-2025 | K Sized Subarray Maximum                              | [Solution](./march2.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) |
-| 01-03-2025 | Decode the string                                     | [Solution](./march1.java) | [Problem](https://www.geeksforgeeks.org/problems/decode-the-string2444/1) |
+| 07-03-2025 | Longest Palindromic Subsequence                       | [Solution](./march7.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) |
+| 06-03-2025 | Longest Common Subsequence                            | [Solution](./march6.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) |
+| 05-03-2025 | Longest String Chain                                  | [Solution](./march5.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-string-chain/1) |
+| 04-03-2025 | Longest Increasing Subsequence                        | [Solution](./march4.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) |
+| 03-03-2025 | Longest Bounded-Difference Subarray                   | [Solution](./march3.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-bounded-difference-subarray/1) |
+| 02-03-2025 | K Sized Subarray Maximum                              | [Solution](./march2.java)     | [Problem](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) |
+| 01-03-2025 | Decode the string                                     | [Solution](./march1.java)     | [Problem](https://www.geeksforgeeks.org/problems/decode-the-string2444/1) |
 | 28-02-2025 | Evaluation of Postfix Expression                      | [Solution](./february28.java) | [Problem](https://www.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1) |
 | 27-02-2025 | Get Min from Stack                                    | [Solution](./february27.java) | [Problem](https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1) |
 | 26-02-2025 | Maximum of minimum for every window size              | [Solution](./february26.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) |
@@ -36,46 +37,46 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 | 12-02-2025 | k-th Smallest in BST                                  | [Solution](./february12.java) | [Problem](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) |
 | 11-02-2025 | Check for BST                                         | [Solution](./february11.java) | [Problem](https://www.geeksforgeeks.org/problems/check-for-bst/1) |
 | 10-02-2025 | K Sum Paths                                           | [Solution](./february10.java) | [Problem](https://www.geeksforgeeks.org/problems/k-sum-paths/1) |
-| 09-02-2025 | Maximum path sum from any node                        | [Solution](./february9.java) | [Problem](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) |
-| 08-02-2025 | Tree Boundary Traversal                               | [Solution](./february8.java) | [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |
-| 07-02-2025 | Inorder Traversal                                     | [Solution](./february7.java) | [Problem](https://www.geeksforgeeks.org/problems/inorder-traversal/1) |
-| 06-02-2025 | Construct Tree from Inorder & Preorder                | [Solution](./february6.java) | [Problem](https://www.geeksforgeeks.org/problems/construct-tree-1/1) |
-| 05-02-2025 | Mirror Tree                                           | [Solution](./february5.java) | [Problem](https://www.geeksforgeeks.org/problems/mirror-tree/1) |
-| 04-02-2025 | Diameter of a Binary Tree                             | [Solution](./february4.java) | [Problem](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1) |
-| 03-02-2025 | Height of Binary Tree                                 | [Solution](./february3.java) | [Problem](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) |
-| 02-02-2025 | Level order traversal                                 | [Solution](./february2.java) | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal/1) |
-| 01-02-2025 | Word Search                                           | [Solution](./february1.java) | [Problem](https://www.geeksforgeeks.org/problems/word-search/1) |
-| 31-01-2025 | Solve the Sudoku                                      | [Solution](./january31.java) | [Problem](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1) |
-| 30-01-2025 | N-Queen Problem                                       | [Solution](./january30.java) | [Problem](https://www.geeksforgeeks.org/problems/n-queen-problem0315/1) |
-| 29-01-2025 | Implement Pow                                         | [Solution](./january29.java) | [Problem](https://www.geeksforgeeks.org/problems/powx-n/1) | 
-| 28-01-2025 | Permutations of a String                              | [Solution](./january28.java) | [Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) |
-| 27-01-2025 | LRU Cache                                             | [Solution](./january27.java) | [Problem](https://www.geeksforgeeks.org/problems/lru-cache/1) |
-| 26-01-2025 | Remove loop in Linked List                            | [Solution](./january26.java) | [Problem](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) |
-| 25-01-2025 | Find the first node of loop in linked list            | [Solution](./january25.java) | [Problem](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1) |
-| 24-01-2025 | Detect Loop in linked list                            | [Solution](./january24.java) | [problem](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) |
-| 23-01-2025 | Clone List with Next and Random                       | [Solution](./january23.java) | [problem](https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1) |
-| 22-01-2025 | Add Number Linked Lists                               | [Solution](./january22.java) | [problem](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) |  
-| 21-01-2025 | Linked List Group Reverse                             | [Solution](./january21.java) | [problem](https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1) |
-| 20-01-2025 | Merge two sorted linked lists                         | [Solution](./january20.java) | [problem](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1) |
-| 19-01-2025 | Rotate a Linked List                                  | [Solution](./january19.java) | [problem](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) |
-| 18-01-2025 | Reverse a linked list                                 | [Solution](./january18.java) | [problem](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) |
-| 17-01-2025 | Product array puzzle                                  | [Solution](./january17.java) | [problem](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) |
-| 16-01-2025 | Largest subarray of 0's and 1's                       | [Solution](./january16.java) | [problem](https://www.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1) |
-| 15-01-2025 | Longest Subarray with Sum K                           | [Solution](./january15.java) | [problem](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
-| 14-01-2025 | Equilibrium Point                                     | [Solution](./january14.java) | [problem](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) |
-| 13-01-2025 | Container With Most Water                             | [Solution](./january13.java) | [problem](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1) |
-| 12-01-2025 |Trapping Rain Water                                    | [Solution](./january12.java) | [problem](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) |
-| 11-01-2025 | Longest substring with distinct characters            | [Solution](./january11.java) | [problem](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1) |
-| 10-01-2025 | Count distinct elements in every window               | [Solution](./january10.java) | [problem](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) |
-| 09-01-2025 | Indexes of Subarray Sum                               | [Solution](./january9.java) | [problem](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
-| 08-01-2025 |Count the number of possible triangles                 | [Solution](./january8.java) | [problem](https://www.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1) |
-| 07-01-2025 | Pair with given sum in a sorted array                 | [Solution](./january7.java) | [problem](https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1) |
-| 06-01-2025 | Sum Pair closest to target                            | [Solution](./january6.java) | [problem](https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1)  |
-| 05-01-2025 | Count Pairs whose sum is less than target             | [Solution](./january5.java) | [problem](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-less-than-target/1) |
-| 04-01-2025 | Count all triplets with given sum in sorted array     | [Solution](./january4.java) | [problem](https://www.geeksforgeeks.org/problems/count-all-triplets-with-given-sum-in-sorted-array/1) | 
-| 03-01-2025 |Count Subarrays with given XOR                         | [Solution](./january3.java) | [problem](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) |
-| 02-01-2025 | Subarrays with sum K                                  | [Solution](./january2.java) | [problem](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) |
-| 01-01-2025 | Print Anagrams Together                               | [Solution](./january1.java) | [problem](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) |
+| 09-02-2025 | Maximum path sum from any node                        | [Solution](./february9.java)  | [Problem](https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1) |
+| 08-02-2025 | Tree Boundary Traversal                               | [Solution](./february8.java)  | [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |
+| 07-02-2025 | Inorder Traversal                                     | [Solution](./february7.java)  | [Problem](https://www.geeksforgeeks.org/problems/inorder-traversal/1) |
+| 06-02-2025 | Construct Tree from Inorder & Preorder                | [Solution](./february6.java)  | [Problem](https://www.geeksforgeeks.org/problems/construct-tree-1/1) |
+| 05-02-2025 | Mirror Tree                                           | [Solution](./february5.java)  | [Problem](https://www.geeksforgeeks.org/problems/mirror-tree/1) |
+| 04-02-2025 | Diameter of a Binary Tree                             | [Solution](./february4.java)  | [Problem](https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1) |
+| 03-02-2025 | Height of Binary Tree                                 | [Solution](./february3.java)  | [Problem](https://www.geeksforgeeks.org/problems/height-of-binary-tree/1) |
+| 02-02-2025 | Level order traversal                                 | [Solution](./february2.java)  | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal/1) |
+| 01-02-2025 | Word Search                                           | [Solution](./february1.java)  | [Problem](https://www.geeksforgeeks.org/problems/word-search/1) |
+| 31-01-2025 | Solve the Sudoku                                      | [Solution](./january31.java)  | [Problem](https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1) |
+| 30-01-2025 | N-Queen Problem                                       | [Solution](./january30.java)  | [Problem](https://www.geeksforgeeks.org/problems/n-queen-problem0315/1) |
+| 29-01-2025 | Implement Pow                                         | [Solution](./january29.java)  | [Problem](https://www.geeksforgeeks.org/problems/powx-n/1) | 
+| 28-01-2025 | Permutations of a String                              | [Solution](./january28.java)  | [Problem](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) |
+| 27-01-2025 | LRU Cache                                             | [Solution](./january27.java)  | [Problem](https://www.geeksforgeeks.org/problems/lru-cache/1) |
+| 26-01-2025 | Remove loop in Linked List                            | [Solution](./january26.java)  | [Problem](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1) |
+| 25-01-2025 | Find the first node of loop in linked list            | [Solution](./january25.java)  | [Problem](https://www.geeksforgeeks.org/problems/find-the-first-node-of-loop-in-linked-list--170645/1) |
+| 24-01-2025 | Detect Loop in linked list                            | [Solution](./january24.java)  | [problem](https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) |
+| 23-01-2025 | Clone List with Next and Random                       | [Solution](./january23.java)  | [problem](https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1) |
+| 22-01-2025 | Add Number Linked Lists                               | [Solution](./january22.java)  | [problem](https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) |  
+| 21-01-2025 | Linked List Group Reverse                             | [Solution](./january21.java)  | [problem](https://www.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1) |
+| 20-01-2025 | Merge two sorted linked lists                         | [Solution](./january20.java)  | [problem](https://www.geeksforgeeks.org/problems/merge-two-sorted-linked-lists/1) |
+| 19-01-2025 | Rotate a Linked List                                  | [Solution](./january19.java)  | [problem](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) |
+| 18-01-2025 | Reverse a linked list                                 | [Solution](./january18.java)  | [problem](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) |
+| 17-01-2025 | Product array puzzle                                  | [Solution](./january17.java)  | [problem](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1) |
+| 16-01-2025 | Largest subarray of 0's and 1's                       | [Solution](./january16.java)  | [problem](https://www.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1) |
+| 15-01-2025 | Longest Subarray with Sum K                           | [Solution](./january15.java)  | [problem](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
+| 14-01-2025 | Equilibrium Point                                     | [Solution](./january14.java)  | [problem](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) |
+| 13-01-2025 | Container With Most Water                             | [Solution](./january13.java)  | [problem](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1) |
+| 12-01-2025 |Trapping Rain Water                                    | [Solution](./january12.java)  | [problem](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) |
+| 11-01-2025 | Longest substring with distinct characters            | [Solution](./january11.java)  | [problem](https://www.geeksforgeeks.org/problems/longest-distinct-characters-in-string5848/1) |
+| 10-01-2025 | Count distinct elements in every window               | [Solution](./january10.java)  | [problem](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) |
+| 09-01-2025 | Indexes of Subarray Sum                               | [Solution](./january9.java)   | [problem](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
+| 08-01-2025 |Count the number of possible triangles                 | [Solution](./january8.java)   | [problem](https://www.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1) |
+| 07-01-2025 | Pair with given sum in a sorted array                 | [Solution](./january7.java)   | [problem](https://www.geeksforgeeks.org/problems/pair-with-given-sum-in-a-sorted-array4940/1) |
+| 06-01-2025 | Sum Pair closest to target                            | [Solution](./january6.java)   | [problem](https://www.geeksforgeeks.org/problems/pair-in-array-whose-sum-is-closest-to-x1124/1)  |
+| 05-01-2025 | Count Pairs whose sum is less than target             | [Solution](./january5.java)   | [problem](https://www.geeksforgeeks.org/problems/count-pairs-whose-sum-is-less-than-target/1) |
+| 04-01-2025 | Count all triplets with given sum in sorted array     | [Solution](./january4.java)   | [problem](https://www.geeksforgeeks.org/problems/count-all-triplets-with-given-sum-in-sorted-array/1) | 
+| 03-01-2025 |Count Subarrays with given XOR                         | [Solution](./january3.java)   | [problem](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) |
+| 02-01-2025 | Subarrays with sum K                                  | [Solution](./january2.java)   | [problem](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) |
+| 01-01-2025 | Print Anagrams Together                               | [Solution](./january1.java)   | [problem](https://www.geeksforgeeks.org/problems/print-anagrams-together/1) |
 
 
 
