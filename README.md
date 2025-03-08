@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 08-03-2025 | Longest Palindrome in a String                        | [Solution](./march8.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1) |
 | 07-03-2025 | Longest Palindromic Subsequence                       | [Solution](./march7.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) |
 | 06-03-2025 | Longest Common Subsequence                            | [Solution](./march6.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) |
 | 05-03-2025 | Longest String Chain                                  | [Solution](./march5.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-string-chain/1) |
