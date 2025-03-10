@@ -7,10 +7,13 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 - **File Naming**: Files are named using the **Month & Date of the GFG POTD**, e.g., `january13.java` for the "january 13th" problem of the day. And the **Topic** is mentioned in the **commit message**.
 - **Language Usage**: Solutions are primarily in **Java**, with potential use of other languages.
 
-## Daily Progress Log - GeeksforGeeks (to be updated as new topics are added)
+## Daily Progress Log - GeeksforGeeks 
+
+(to be updated as new topics are added)
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 10-03-2025 | Edit Distance                                         | [Solution](./march10.java)    | [Problem](https://www.geeksforgeeks.org/problems/edit-distance3702/1) |
 | 09-03-2025 | Palindrome SubStrings                                 | [Solution](./march9.java)     | [Problem](https://www.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string0652/1) |
 | 08-03-2025 | Longest Palindrome in a String                        | [Solution](./march8.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1) |
 | 07-03-2025 | Longest Palindromic Subsequence                       | [Solution](./march7.java)     | [Problem](https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) |
