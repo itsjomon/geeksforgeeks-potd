@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 15-03-2025 | Coin Change (Minimum Coins)                           | [Solution](./march15.java)    | [Problem](https://www.geeksforgeeks.org/problems/number-of-coins1824/1) |
 | 14-03-2025 | Coin Change (Count Ways)                              | [Solution](./march14.java)    | [Problem](https://www.geeksforgeeks.org/problems/coin-change2448/1) |
 | 13-03-2025 | 0 - 1 Knapsack Problem                                | [Solution](./march13.java)    | [Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) |
 | 12-03-2025 | Min Cost Climbing Stairs                              | [Solution](./march12.java)    | [Problem](https://www.geeksforgeeks.org/problems/min-cost-climbing-stairs/1) |
