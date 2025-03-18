@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 18-03-2025 | Partition Equal Subset Sum                            | [Solution](./march18.java)    | [Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) |
 | 17-03-2025 | Subset Sum Problem                                    | [Solution](./march17.java)    | [Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
 | 16-03-2025 | Minimum Jumps                                         | [Solution](./march16.java)    | [Problem](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1) |
 | 15-03-2025 | Coin Change (Minimum Coins)                           | [Solution](./march15.java)    | [Problem](https://www.geeksforgeeks.org/problems/number-of-coins1824/1) |
