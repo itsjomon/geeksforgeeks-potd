@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 21-03-2025 | Stickler Thief                                        | [Solution](./march21.java)    | [Problem](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1) |
 | 20-03-2025 | Stock Buy and Sell – Max 2 Transactions Allowed       | [Solution](./march20.java)    | [Problem](https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1) |
 | 19-03-2025 | Stock Buy and Sell – Max K Transactions Allowed       | [Solution](./march19.java)    | [Problem](https://www.geeksforgeeks.org/problems/maximum-profit4657/1) |
 | 18-03-2025 | Partition Equal Subset Sum                            | [Solution](./march18.java)    | [Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1) |
