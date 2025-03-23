@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 23-03-2025 | Total Decoding Messages                               | [Solution](./march23.java)    | [Problem](https://www.geeksforgeeks.org/problems/total-decoding-messages1235/1) |
 | 22-03-2025 | Stickler Thief II                                     | [Solution](./march22.java)    | [Problem](https://www.geeksforgeeks.org/problems/house-robber-ii/1) |
 | 21-03-2025 | Stickler Thief                                        | [Solution](./march21.java)    | [Problem](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1) |
 | 20-03-2025 | Stock Buy and Sell – Max 2 Transactions Allowed       | [Solution](./march20.java)    | [Problem](https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1) |
