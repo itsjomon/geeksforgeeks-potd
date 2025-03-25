@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 25-03-2025 | Boolean Parenthesization                              | [Solution](./march25.java)    | [Problem](https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1) |
 | 24-03-2025 | Matrix Chain Multiplication                           | [Solution](./march24.java)    | [Problem](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) |
 | 23-03-2025 | Total Decoding Messages                               | [Solution](./march23.java)    | [Problem](https://www.geeksforgeeks.org/problems/total-decoding-messages1235/1) |
 | 22-03-2025 | Stickler Thief II                                     | [Solution](./march22.java)    | [Problem](https://www.geeksforgeeks.org/problems/house-robber-ii/1) |
