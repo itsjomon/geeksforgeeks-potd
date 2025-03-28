@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 28-03-2025 | Activity Selection                                    | [Solution](./march28.java)    | [Problem](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1) |
 | 27-03-2025 | Minimum Platforms                                     | [Solution](./march27.java)    | [Problem](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |
 | 26-03-2025 | Word Break                                            | [Solution](./march26.java)    | [Problem](https://www.geeksforgeeks.org/problems/word-break1352/1) |
 | 25-03-2025 | Boolean Parenthesization                              | [Solution](./march25.java)    | [Problem](https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1) |
