@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 01-04-2025 | DFS of Graph                                          | [Solution](./april1.java)    | [Problem](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |
 | 31-03-2025 | Maximize partitions in a String                       | [Solution](./march31.java)    | [Problem](https://www.geeksforgeeks.org/problems/maximize-partitions-in-a-string/1) |
 | 30-03-2025 | Gas Station                                           | [Solution](./march30.java)    | [Problem](https://www.geeksforgeeks.org/problems/circular-tour-1587115620/1) |
 | 29-03-2025 | Job Sequencing Problem                                | [Solution](./march29.java)    | [Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) |
