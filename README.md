@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 03-04-2025 | Rotten Oranges                                        | [Solution](./april3.java)     | [Problem](https://www.geeksforgeeks.org/problems/rotten-oranges2536/1) |
 | 02-04-2025 | BFS of graph                                          | [Solution](./april2.java)     | [Problem](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |
 | 01-04-2025 | DFS of Graph                                          | [Solution](./april1.java)     | [Problem](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |
 | 31-03-2025 | Maximize partitions in a String                       | [Solution](./march31.java)    | [Problem](https://www.geeksforgeeks.org/problems/maximize-partitions-in-a-string/1) |
