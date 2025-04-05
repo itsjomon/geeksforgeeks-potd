@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 05-04-2025 | Find the number of islands                            | [Solution](./april5.java)     | [Problem](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1) |
 | 04-04-2025 | Undirected Graph Cycle                                | [Solution](./april4.java)     | [Problem](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |
 | 03-04-2025 | Rotten Oranges                                        | [Solution](./april3.java)     | [Problem](https://www.geeksforgeeks.org/problems/rotten-oranges2536/1) |
 | 02-04-2025 | BFS of graph                                          | [Solution](./april2.java)     | [Problem](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |
