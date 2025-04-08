@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 08-04-2025 | Bridge edge in a graph                                | [Solution](./april8.java)     | [Problem](https://www.geeksforgeeks.org/problems/bridge-edge-in-graph/1) |
 | 07-04-2025 | Directed Graph Cycle                                  | [Solution](./april7.java)     | [Problem](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |
 | 06-04-2025 | Topological sort                                      | [Solution](./april6.java)     | [Problem](https://www.geeksforgeeks.org/problems/topological-sort/1) |
 | 05-04-2025 | Find the number of islands                            | [Solution](./april5.java)     | [Problem](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1) |
