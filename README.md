@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 10-04-2025 | Minimum cost to connect all houses in a city          | [Solution](./april10.java)    | [Problem](https://www.geeksforgeeks.org/problems/minimum-cost-to-connect-all-houses-in-a-city/1) |
 | 09-04-2025 | Articulation Point - II                               | [Solution](./april9.java)     | [Problem](https://www.geeksforgeeks.org/problems/articulation-point2616/1) |
 | 08-04-2025 | Bridge edge in a graph                                | [Solution](./april8.java)     | [Problem](https://www.geeksforgeeks.org/problems/bridge-edge-in-graph/1) |
 | 07-04-2025 | Directed Graph Cycle                                  | [Solution](./april7.java)     | [Problem](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |
