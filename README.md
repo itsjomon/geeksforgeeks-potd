@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 17-04-2025 | Minimum Weight Cycle                                  | [Solution](./april17.java)    | [Problem](https://www.geeksforgeeks.org/problems/minimum-weight-cycle/1) |
 | 16-04-2025 | Floyd Warshall                                        | [Solution](./april16.java)    | [Problem](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) |
 | 15-04-2025 | Bellman-Ford                                          | [Solution](./april15.java)    | [Problem](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) |
 | 14-04-2025 | Alien Dictionary                                      | [Solution](./april14.java)    | [Problem](https://www.geeksforgeeks.org/problems/alien-dictionary/1) |
