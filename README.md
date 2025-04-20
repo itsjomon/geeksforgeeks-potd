@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 20-04-2025 | Find Only Repetitive Element from 1 to n-1            | [Solution](./april20.java)    | [Problem](https://www.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) |
 | 19-04-2025 | Maximum XOR of two numbers in an array                | [Solution](./april19.java)    | [Problem](https://www.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/1) |
 | 18-04-2025 | Implement Trie                                        | [Solution](./april18.java)    | [Problem](https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1) |
 | 17-04-2025 | Minimum Weight Cycle                                  | [Solution](./april17.java)    | [Problem](https://www.geeksforgeeks.org/problems/minimum-weight-cycle/1) |
