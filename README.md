@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 23-04-2025 | Unique Number II                                      | [Solution](./april23.java)    | [Problem](https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1) |
 | 22-04-2025 | Unique Number I                                       | [Solution](./april22.java)    | [Problem](https://www.geeksforgeeks.org/problems/find-unique-number/1) |
 | 21-04-2025 | Missing in Array                                      | [Solution](./april21.java)    | [Problem](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) |
 | 20-04-2025 | Find Only Repetitive Element from 1 to n-1            | [Solution](./april20.java)    | [Problem](https://www.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) |
