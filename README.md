@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 25-04-2025 | Majority Element                                      | [Solution](./april25.java)    | [Problem](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) |
 | 24-04-2025 | Unique Number III                                     | [Solution](./april24.java)    | [Problem](https://www.geeksforgeeks.org/problems/find-element-occuring-once-when-all-other-are-present-thrice/1) |
 | 23-04-2025 | Unique Number II                                      | [Solution](./april23.java)    | [Problem](https://www.geeksforgeeks.org/problems/finding-the-numbers0215/1) |
 | 22-04-2025 | Unique Number I                                       | [Solution](./april22.java)    | [Problem](https://www.geeksforgeeks.org/problems/find-unique-number/1) |
