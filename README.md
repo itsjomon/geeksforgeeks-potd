@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 28-04-2025 | Maximum sum of Non-adjacent nodes                     | [Solution](./april28.java)    | [Problem](https://www.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1) |
 | 27-04-2025 | Multiply two strings                                  | [Solution](./april27.java)    | [Problem](https://www.geeksforgeeks.org/problems/multiply-two-strings/1) |
 | 26-04-2025 | Is Binary Tree Heap                                   | [Solution](./april26.java)    | [Problem](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1) |
 | 25-04-2025 | Majority Element                                      | [Solution](./april25.java)    | [Problem](https://www.geeksforgeeks.org/problems/majority-element-1587115620/1) |
