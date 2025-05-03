@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 03-05-2025 | Prime List                                            | [Solution](./may3.java)       | [Problem](https://www.geeksforgeeks.org/problems/prime-list--170646/1) |
 | 02-05-2025 | Bitonic Point                                         | [Solution](./may2.java)       | [Problem](https://www.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1) |
 | 01-05-2025 | Pascal Triangle                                       | [Solution](./may1.java)       | [Problem](https://www.geeksforgeeks.org/problems/pascal-triangle0652/1) |
 | 30-04-2025 | Find length of Loop                                   | [Solution](./april30.java)    | [Problem](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) |
