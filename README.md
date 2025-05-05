@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 05-05-2025 | Search in an almost Sorted Array                      | [Solution](./may5.java)       | [Problem](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1) |
 | 04-05-2025 | Smallest distinct window                              | [Solution](./may4.java)       | [Problem](https://www.geeksforgeeks.org/problems/smallest-distant-window3132/1) |
 | 03-05-2025 | Prime List                                            | [Solution](./may3.java)       | [Problem](https://www.geeksforgeeks.org/problems/prime-list--170646/1) |
 | 02-05-2025 | Bitonic Point                                         | [Solution](./may2.java)       | [Problem](https://www.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1) |
