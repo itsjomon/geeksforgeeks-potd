@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 08-05-2025 | Missing element of AP                                 | [Solution](./may8.java)       | [Problem](https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1) |
 | 07-05-2025 | Root to Leaf Paths                                    | [Solution](./may7.java)       | [Problem](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) |
 | 06-05-2025 | Left View of Binary Tree                              | [Solution](./may6.java)       | [Problem](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) |
 | 05-05-2025 | Search in an almost Sorted Array                      | [Solution](./may5.java)       | [Problem](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1) |
