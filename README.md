@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 11-05-2025 | K-th Largest Sum Contiguous Subarray                  | [Solution](./may11.java)      | [Problem](https://www.geeksforgeeks.org/problems/k-th-largest-sum-contiguous-subarray/1) |
 | 10-05-2025 | Longest Subarray with Majority Greater than K         | [Solution](./may10.java)      | [Problem](https://www.geeksforgeeks.org/problems/longest-subarray-with-majority-greater-than-k/1) |
 | 09-05-2025 | Largest number in K swaps                             | [Solution](./may9.java)       | [Problem](https://www.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1) |
 | 08-05-2025 | Missing element of AP                                 | [Solution](./may8.java)       | [Problem](https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1) |
