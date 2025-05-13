@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 13-05-2025 | nCr                                                   | [Solution](./may13.java)      | [Problem](https://www.geeksforgeeks.org/problems/ncr1019/1) |
 | 12-05-2025 | Meeting Rooms III                                     | [Solution](./may12.java)      | [Problem](https://www.geeksforgeeks.org/problems/meeting-rooms-iii/1) |
 | 11-05-2025 | K-th Largest Sum Contiguous Subarray                  | [Solution](./may11.java)      | [Problem](https://www.geeksforgeeks.org/problems/k-th-largest-sum-contiguous-subarray/1) |
 | 10-05-2025 | Longest Subarray with Majority Greater than K         | [Solution](./may10.java)      | [Problem](https://www.geeksforgeeks.org/problems/longest-subarray-with-majority-greater-than-k/1) |
