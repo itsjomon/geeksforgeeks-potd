@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                         | Problem Link                          |
 |------------|---------------|---------------------------------------|---------------------------------------|
+| 15-05-2025 | Substrings with same first and last characters        | [Solution](./may15.java)      | [Problem](https://www.geeksforgeeks.org/problems/substrings-with-similar-first-and-last-characters3644/1) |
 | 14-05-2025 | Look and Say Pattern                                  | [Solution](./may14.java)      | [Problem](https://www.geeksforgeeks.org/problems/decode-the-pattern1138/1) |
 | 13-05-2025 | nCr                                                   | [Solution](./may13.java)      | [Problem](https://www.geeksforgeeks.org/problems/ncr1019/1) |
 | 12-05-2025 | Meeting Rooms III                                     | [Solution](./may12.java)      | [Problem](https://www.geeksforgeeks.org/problems/meeting-rooms-iii/1) |
