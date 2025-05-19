@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                          | Problem Link                          |
 |------------|---------------|----------------------------------------|---------------------------------------|
+| 19-05-2025 | Predecessor and Successor                              | [Solution](./may19.java)      | [Problem](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) |
 | 18-05-2025 | Level Order in spiral form                             | [Solution](./may18.java)      | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) |
 | 17-05-2025 | Sort the given array after applying the given equation | [Solution](./may17.java)      | [Problem](https://www.geeksforgeeks.org/problems/sort-the-given-array-after-applying-the-given-equation0304/1) |
 | 16-05-2025 | Smallest range in K lists                              | [Solution](./may16.java)      | [Problem](https://www.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1) |
