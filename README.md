@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                          | Problem Link                          |
 |------------|---------------|----------------------------------------|---------------------------------------|
+| 21-05-2025 | Kth Smallest Number in Multiplication Table            | [Solution](./may21.java)      | [Problem](https://www.geeksforgeeks.org/problems/kth-smallest-number-in-multiplication-table/1) |
 | 20-05-2025 | Burning Tree                                           | [Solution](./may20.java)      | [Problem](https://www.geeksforgeeks.org/problems/burning-tree/1) |
 | 19-05-2025 | Predecessor and Successor                              | [Solution](./may19.java)      | [Problem](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) |
 | 18-05-2025 | Level Order in spiral form                             | [Solution](./may18.java)      | [Problem](https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1) |
