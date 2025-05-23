@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                          | Problem Link                          |
 |------------|---------------|----------------------------------------|---------------------------------------|
+| 23-05-2025 | Dice throw                                             | [Solution](./may23.java)      | [Problem](https://www.geeksforgeeks.org/problems/dice-throw5349/1) |
 | 22-05-2025 | Minimum Deletions                                      | [Solution](./may22.java)      | [Problem](https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1) |
 | 21-05-2025 | Kth Smallest Number in Multiplication Table            | [Solution](./may21.java)      | [Problem](https://www.geeksforgeeks.org/problems/kth-smallest-number-in-multiplication-table/1) |
 | 20-05-2025 | Burning Tree                                           | [Solution](./may20.java)      | [Problem](https://www.geeksforgeeks.org/problems/burning-tree/1) |
