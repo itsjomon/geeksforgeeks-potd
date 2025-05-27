@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                          | Problem Link                          |
 |------------|---------------|----------------------------------------|---------------------------------------|
+| 27-05-2025 | Print leaf nodes from preorder traversal of BST        | [Solution](./may27.java)      | [Problem](https://www.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst2657/1) |
 | 26-05-2025 | Insert in Sorted Circular Linked List                  | [Solution](./may26.java)      | [Problem](https://www.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1) |
 | 25-05-2025 | Pythagorean Triplet                                    | [Solution](./may25.java)      | [Problem](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1) |
 | 24-05-2025 | Sum of all substrings of a number                      | [Solution](./may24.java)      | [Problem](https://www.geeksforgeeks.org/problems/sum-of-all-substrings-of-a-number-1587115621/1) |
