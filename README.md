@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                          | Problem Link                          |
 |------------|---------------|----------------------------------------|---------------------------------------|
+| 28-05-2025 | Find rectangle with corners as 1                       | [Solution](./may28.java)      | [Problem](https://www.geeksforgeeks.org/problems/find-rectangle-with-corners-as-1--141631/1) |
 | 27-05-2025 | Print leaf nodes from preorder traversal of BST        | [Solution](./may27.java)      | [Problem](https://www.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst2657/1) |
 | 26-05-2025 | Insert in Sorted Circular Linked List                  | [Solution](./may26.java)      | [Problem](https://www.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1) |
 | 25-05-2025 | Pythagorean Triplet                                    | [Solution](./may25.java)      | [Problem](https://www.geeksforgeeks.org/problems/pythagorean-triplet3018/1) |
