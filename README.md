@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                          | Problem Link                          |
 |------------|---------------|----------------------------------------|---------------------------------------|
+| 30-05-2025 | Closest Neighbour in BST                               | [Solution](./may30.java)      | [Problem](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) |
 | 29-05-2025 | Sum of nodes on the longest path                       | [Solution](./may29.java)      | [Problem](https://www.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) |
 | 28-05-2025 | Find rectangle with corners as 1                       | [Solution](./may28.java)      | [Problem](https://www.geeksforgeeks.org/problems/find-rectangle-with-corners-as-1--141631/1) |
 | 27-05-2025 | Print leaf nodes from preorder traversal of BST        | [Solution](./may27.java)      | [Problem](https://www.geeksforgeeks.org/problems/print-leaf-nodes-from-preorder-traversal-of-bst2657/1) |
