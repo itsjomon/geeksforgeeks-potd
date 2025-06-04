@@ -13,6 +13,7 @@ This repository contains solutions to problems from ***[GeeksforGeeks](https://w
 
 | Date       | Problem Name  | Solution Link                          | Problem Link                          |
 |------------|---------------|----------------------------------------|---------------------------------------|
+| 04-06-2025 | LCS of three strings                                   | [Solution](./june4.java)      | [Problem](https://www.geeksforgeeks.org/problems/lcs-of-three-strings0028/1) |
 | 03-06-2025 | Substrings with K Distinct                             | [Solution](./june3.java)      | [Problem](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) |
 | 02-06-2025 | Unique Paths in a Grid                                 | [Solution](./june2.java)      | [Problem](https://www.geeksforgeeks.org/problems/unique-paths-in-a-grid--170647/1?timeMachineDate=2025-06-02) |
 | 01-06-2025 | Count pairs Sum in matrices                            | [Solution](./june1.java)      | [Problem](https://www.geeksforgeeks.org/problems/count-pairs-sum-in-matrices4332/1) |
