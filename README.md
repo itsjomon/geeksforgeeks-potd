@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 08-06-2025 | Sum-string | Hard | [Problem](https://www.geeksforgeeks.org/problems/sum-string3151/1) | [Solution](./june8.java) |
 | 07-06-2025 | Longest Span in two Binary Arrays | Medium | [Problem](https://www.geeksforgeeks.org/problems/longest-span-with-same-sum-in-two-binary-arrays5142/1) | [Solution](./june7.java) |
 | 06-06-2025 | Search Pattern (Rabin-Karp Algorithm) | Medium | [Problem](https://www.geeksforgeeks.org/problems/search-pattern-rabin-karp-algorithm--141631/1) | [Solution](./june6.java) |
 | 05-06-2025 | Count the paths | Medium | [Problem](https://www.geeksforgeeks.org/problems/count-the-paths4332/1) | [Solution](./june5.java) |
