@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 10-06-2025 | Exactly one swap | Medium | [Problem](https://www.geeksforgeeks.org/problems/exactly-one-swap--170637/1) | [Solution](./june10.java) |
 | 09-06-2025 | BST with Dead End | Medium | [Problem](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) | [Solution](./june9.java) |
 | 08-06-2025 | Sum-string | Hard | [Problem](https://www.geeksforgeeks.org/problems/sum-string3151/1) | [Solution](./june8.java) |
 | 07-06-2025 | Longest Span in two Binary Arrays | Medium | [Problem](https://www.geeksforgeeks.org/problems/longest-span-with-same-sum-in-two-binary-arrays5142/1) | [Solution](./june7.java) |
