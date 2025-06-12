@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 12-06-2025 | K closest elements | Medium | [Problem](https://www.geeksforgeeks.org/problems/k-closest-elements3619/1) | [Solution](./june12.java) |
 | 11-06-2025 | Remove the balls | Medium | [Problem](https://www.geeksforgeeks.org/problems/remove-the-balls--170647/1) | [Solution](./june11.java) |
 | 10-06-2025 | Exactly one swap | Medium | [Problem](https://www.geeksforgeeks.org/problems/exactly-one-swap--170637/1) | [Solution](./june10.java) |
 | 09-06-2025 | BST with Dead End | Medium | [Problem](https://www.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1) | [Solution](./june9.java) |
