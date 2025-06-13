@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 13-06-2025 | Koko Eating Bananas | Medium | [Problem](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1) | [Solution](./june13.java) |
 | 12-06-2025 | K closest elements | Medium | [Problem](https://www.geeksforgeeks.org/problems/k-closest-elements3619/1) | [Solution](./june12.java) |
 | 11-06-2025 | Remove the balls | Medium | [Problem](https://www.geeksforgeeks.org/problems/remove-the-balls--170647/1) | [Solution](./june11.java) |
 | 10-06-2025 | Exactly one swap | Medium | [Problem](https://www.geeksforgeeks.org/problems/exactly-one-swap--170637/1) | [Solution](./june10.java) |
