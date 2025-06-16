@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 16-06-2025 | Equalize the Towers | Medium | [Problem](https://www.geeksforgeeks.org/problems/equalize-the-towers2804/1) | [Solution](./june16.java) |
 | 15-06-2025 | Smallest Divisor | Medium | [Problem](https://www.geeksforgeeks.org/problems/smallest-divisor/1) | [Solution](./june15.java) |
 | 14-06-2025 | Symmetric Tree | Easy | [Problem](https://www.geeksforgeeks.org/problems/symmetric-tree/1) | [Solution](./june14.java) |
 | 13-06-2025 | Koko Eating Bananas | Medium | [Problem](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1) | [Solution](./june13.java) |
