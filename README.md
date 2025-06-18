@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 18-06-2025 | All Palindromic Partitions | Medium | [Problem](https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1) | [Solution](./june18.java) |
 | 17-06-2025 | Coin Piles | Medium | [Problem](https://www.geeksforgeeks.org/problems/coin-piles5152/1) | [Solution](./june17.java) |
 | 16-06-2025 | Equalize the Towers | Medium | [Problem](https://www.geeksforgeeks.org/problems/equalize-the-towers2804/1) | [Solution](./june16.java) |
 | 15-06-2025 | Smallest Divisor | Medium | [Problem](https://www.geeksforgeeks.org/problems/smallest-divisor/1) | [Solution](./june15.java) |
