@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 20-06-2025 | Group Balls by Sequence | Medium | [Problem](https://www.geeksforgeeks.org/problems/group-balls-by-sequence/1) | [Solution](./june20.java) |
 | 19-06-2025 | Case-specific Sorting of Strings | Medium | [Problem](https://www.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1) | [Solution](./june19.java) |
 | 18-06-2025 | All Palindromic Partitions | Medium | [Problem](https://www.geeksforgeeks.org/problems/find-all-possible-palindromic-partitions-of-a-string/1) | [Solution](./june18.java) |
 | 17-06-2025 | Coin Piles | Medium | [Problem](https://www.geeksforgeeks.org/problems/coin-piles5152/1) | [Solution](./june17.java) |
