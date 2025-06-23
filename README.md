@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 23-06-2025 | Minimum sum | Medium | [Problem](https://www.geeksforgeeks.org/problems/minimum-sum4058/1) | [Solution](./june23.java) |
 | 22-06-2025 | Largest Divisible Subset | Medium | [Problem](https://www.geeksforgeeks.org/problems/largest-divisible-subset--170643/1) | [Solution](./june22.java) |
 | 21-06-2025 | Police and Thieves | Medium | [Problem](https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1) | [Solution](./june21.java) |
 | 20-06-2025 | Group Balls by Sequence | Medium | [Problem](https://www.geeksforgeeks.org/problems/group-balls-by-sequence/1) | [Solution](./june20.java) |
