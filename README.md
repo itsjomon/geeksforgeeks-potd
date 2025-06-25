@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 25-06-2025 | Check if frequencies can be equal | Medium | [Problem](https://www.geeksforgeeks.org/problems/check-frequencies4211/1) | [Solution](./june25.java) |
 | 24-06-2025 | Lexicographically Largest String After K Deletions | Medium | [Problem](https://www.geeksforgeeks.org/problems/lexicographically-largest-string-after-deleting-k-characters/1) | [Solution](./june24.java) |
 | 23-06-2025 | Minimum sum | Medium | [Problem](https://www.geeksforgeeks.org/problems/minimum-sum4058/1) | [Solution](./june23.java) |
 | 22-06-2025 | Largest Divisible Subset | Medium | [Problem](https://www.geeksforgeeks.org/problems/largest-divisible-subset--170643/1) | [Solution](./june22.java) |
