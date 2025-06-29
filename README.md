@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 29-06-2025 | Split Array Largest Sum | Hard | [Problem](https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1) | [Solution](./june29.java) |
 | 28-06-2025 | Counting elements in two arrays | Medium | [Problem](https://www.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1) | [Solution](./june28.java) |
 | 27-06-2025 | Mobile numeric keypad | Medium | [Problem](https://www.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1) | [Solution](./june27.java) |
 | 26-06-2025 | Game with String | Medium | [Problem](https://www.geeksforgeeks.org/problems/game-with-string4100/1) | [Solution](./june26.java) |
