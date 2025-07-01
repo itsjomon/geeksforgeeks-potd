@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 01-07-2025 | Substrings of length k with k-1 distinct elements | Medium | [Problem](https://www.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1) | [Solution](./july1.java) |
 | 30-06-2025 | Max min Height | Hard | [Problem](https://www.geeksforgeeks.org/problems/max-min-height--170647/1) | [Solution](./june30.java) |
 | 29-06-2025 | Split Array Largest Sum | Hard | [Problem](https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1) | [Solution](./june29.java) |
 | 28-06-2025 | Counting elements in two arrays | Medium | [Problem](https://www.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1) | [Solution](./june28.java) |
