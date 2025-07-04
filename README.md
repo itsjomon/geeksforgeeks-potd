@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 04-07-2025 | Subarrays With At Most K Distinct Integers | Medium | [Problem](https://www.geeksforgeeks.org/problems/subarrays-with-at-most-k-distinct-integers/1) | [Solution](./july4.java) |
 | 03-07-2025 | Longest Substring with K Uniques | Medium | [Problem](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | [Solution](./july3.java) |
 | 02-07-2025 | Longest subarray with Atmost two distinct integers | Medium | [Problem](https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1) | [Solution](./july2.java) |
 | 01-07-2025 | Substrings of length k with k-1 distinct elements | Medium | [Problem](https://www.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1) | [Solution](./july1.java) |
