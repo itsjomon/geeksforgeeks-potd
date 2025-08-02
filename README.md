@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 02-08-2025 | Longest Subarray with Majority Greater than K | Medium | [Problem](https://www.geeksforgeeks.org/problems/longest-subarray-with-majority-greater-than-k/1) | [Solution](./august2.java) |
 | 01-08-2025 | Balancing Consonants and Vowels Ratio | Medium | [Problem](https://www.geeksforgeeks.org/problems/balancing-consonants-and-vowels-ratio/1) | [Solution](./august1.java) |
 | 04-07-2025 | Subarrays With At Most K Distinct Integers | Medium | [Problem](https://www.geeksforgeeks.org/problems/subarrays-with-at-most-k-distinct-integers/1) | [Solution](./july4.java) |
 | 03-07-2025 | Longest Substring with K Uniques | Medium | [Problem](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | [Solution](./july3.java) |
