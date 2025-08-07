@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 07-08-2025 | Difference Check | Medium | [Problem](https://www.geeksforgeeks.org/problems/difference-check/1) | [Solution](./august7.java) |
 | 06-08-2025 | Roman Number to Integer | Easy | [Problem](https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1) | [Solution](./august6.java) |
 | 05-08-2025 | Palindrome Sentence | Easy | [Problem](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1) | [Solution](./august5.java) |
 | 04-08-2025 | Maximum sum Rectangle | Hard | [Problem](https://www.geeksforgeeks.org/problems/maximum-sum-rectangle2948/1) | [Solution](./august4.java) |
