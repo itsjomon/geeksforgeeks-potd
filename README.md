@@ -15,6 +15,7 @@ This repository contains **daily solutions** to the [GeeksforGeeks Problem of th
 
 | Date | Question | Difficulty | Problem Link | Solution Link |
 |------|----------|------------|--------------|---------------|
+| 13-08-2025 | Tywin's War Strategy | Easy | [Problem](https://www.geeksforgeeks.org/problems/tywins-war-strategy0527/1) | [Solution](./august13.java) |
 | 12-08-2025 | Shop in Candy Store | Medium | [Problem](https://www.geeksforgeeks.org/problems/shop-in-candy-store1145/1) | [Solution](./august12.java) |
 | 11-08-2025 | Maximum Non-Overlapping Odd Palindrome Sum | Hard | [Problem](https://www.geeksforgeeks.org/problems/maximum-non-overlapping-odd-palindrome-sum/1) | [Solution](./august11.java) |
 | 10-08-2025 | Palindrome SubStrings | Hard | [Problem](https://www.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string0652/1) | [Solution](./august10.java) |
